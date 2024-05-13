@@ -1,9 +1,9 @@
-SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
+**SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS**
 
-AIM: 
+**AIM: **
  To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
 
-APPARATUS REQUIRED:
+**APPARATUS REQUIRED:**
 Xilinx 14.7
 Spartan6 FPGA
 
@@ -35,7 +35,8 @@ MAGNITUDE COMPARATOR
 
 
   
-PROCEDURE:
+**PROCEDURE:**
+
 STEP:1  Start  the Xilinx navigator, Select and Name the New project.
 STEP:2  Select the device family, device, package and speed.       
 STEP:3  Select new source in the New Project and select Verilog Module as the Source type.                       
@@ -152,7 +153,7 @@ OUTPUT WAVEFORM
 ![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/20489d60-e234-47b6-abbc-29244e0bddcf)
 # 3 to 8 Decoder
 ![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/7df6ca96-71cd-491f-a07d-bae8ce954118)
-RESULT
+**RESULT:**
 Thus To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE is verified successfully.
 
 
